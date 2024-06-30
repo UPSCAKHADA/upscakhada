@@ -43,11 +43,11 @@ export default function Courses () {
             </Col>
             <Col lg="4" sm="6">
               <div className="course_card">
-                <h3>WINNING EDGE 2.0</h3>
-                <h1>₹ 35, 000</h1>
+                <h3>ETHICS</h3>
+                <h1>₹ 9, 999</h1>
                 <ul>
                   <li>
-                    <FaArrowCircleRight />Mentorship Course for PRELIMS, MAINS, Interview.
+                    <FaArrowCircleRight />Complete coverage of the subject.
                   </li>
                 </ul>
                 <a href='\coursedetail_upsc2'>  
@@ -88,8 +88,8 @@ export default function Courses () {
           <Row>
             <Col lg="3" sm="6">
               <div className="course_card">
-                <h3>DAILY ANSWER WRITING PROGRAM (GS & ESSAY)</h3>
-                <h1>₹ 10, 776</h1>
+                <h3>DAILY ANSWER WRITING PROGRAM (GS)</h3>
+                <h1>₹ 14, 999</h1>
                 <ul>
                   <li>
                     <FaArrowCircleRight />UPSC MAINS DAILY ANSWER WRITING PROGRAM. 
@@ -104,7 +104,7 @@ export default function Courses () {
             <Col lg="3" sm="6">
               <div className="course_card">
                 <h3>DAILY ANSWER WRITING PROGRAM PAPER 1</h3>
-                <h1>₹ 3, 000</h1>
+                <h1>₹ 3, 999</h1>
                 <ul>
                   <li>
                     <FaArrowCircleRight />UPSC Mains daily answer writing program for paper 1.
@@ -118,7 +118,7 @@ export default function Courses () {
             <Col lg="3" sm="6">
               <div className="course_card">
                 <h3>UPSC ESSAY TEST SERIES</h3>
-                <h1>₹ 3, 000</h1>
+                <h1>₹ 3, 999</h1>
                 <ul>
                   <li>
                     <FaArrowCircleRight />Test Series for UPSC Mains essay writing. 
@@ -132,7 +132,7 @@ export default function Courses () {
             <Col lg="3" sm="6">
               <div className="course_card">
                 <h3>UPSC MAINS TEST SERIES</h3>
-                <h1>₹ 10, 000</h1>
+                <h1>₹ 14, 999</h1>
                 <ul>
                   <li>
                     <FaArrowCircleRight />Test series for UPSC Mains.
@@ -146,7 +146,7 @@ export default function Courses () {
             <Col lg="4" sm="6">
               <div className="course_card">
                 <h3>DAILY ANSWER WRITING PROGRAM PAPER 2</h3>
-                <h1>₹ 3, 000</h1>
+                <h1>₹ 3, 999</h1>
                 <ul>
                   <li>
                     <FaArrowCircleRight />UPSC Mains daily answer writing program for paper 2. 
@@ -160,7 +160,7 @@ export default function Courses () {
             <Col lg="4" sm="6">
               <div className="course_card">
                 <h3>DAILY ANSWER WRITING PROGRAM PAPER 3</h3>
-                <h1>₹ 3, 000</h1>
+                <h1>₹ 3, 999</h1>
                 <ul>
                   <li>
                     <FaArrowCircleRight />UPSC Mains daily answer writing program for paper 3. 
@@ -174,7 +174,7 @@ export default function Courses () {
             <Col lg="4" sm="6">
               <div className="course_card">
                 <h3>DAILY ANSWER WRITING PROGRAM PAPER 4</h3>
-                <h1>₹ 3, 000</h1>
+                <h1>₹ 4, 999</h1>
                 <ul>
                   <li>
                     <FaArrowCircleRight />UPSC Mains daily answer writing program for paper 4. 
@@ -221,7 +221,7 @@ export default function Courses () {
             <Col lg="3" sm="6">
               <div className="course_card">
                 <h3>PUBLIC ADMINISTRATION</h3>
-                <h1>₹ 9, 999</h1>
+                <h1>₹ 10, 999</h1>
                 <ul>
                   <li>
                     <FaArrowCircleRight />The questions are uploaded daily and analyzed. 
@@ -249,7 +249,7 @@ export default function Courses () {
             <Col lg="3" sm="6">
               <div className="course_card">
                 <h3>SOCIOLOGY</h3>
-                <h1>₹ 9, 999</h1>
+                <h1>₹ 14, 999</h1>
                 <ul>
                   <li>
                     <FaArrowCircleRight />Tailored approach as per your level of preparation, on-demand conceptual clarity workshops. 
@@ -507,7 +507,7 @@ export default function Courses () {
             <Col lg="3" sm="6">
               <div className="course_card">
                 <h3>CSAT PAPER 2</h3>
-                <h1>₹ 3, 999</h1>
+                <h1>₹ 4, 999</h1>
                 <ul>
                   <li>
                     <FaArrowCircleRight />The course will cover CSAT Paper 2. 
@@ -550,7 +550,7 @@ export default function Courses () {
             <Col lg="3" sm="6">
               <div className="course_card">
                 <h3>INDIAN SOCIETY</h3>
-                <h1>₹ 1, 999</h1>
+                <h1>₹ 2, 999</h1>
                 <ul>
                   <li>
                     <FaArrowCircleRight />This course contains study material for subject Indian Society. 

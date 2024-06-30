@@ -14,7 +14,7 @@ function NewlyAdded() {
             <Row>
                 <Col lg={4} sm={6}>
                     <div className="newly_card">
-                        <h4>Target 550+ in UPSC CSE MAINS- GS and ESSAY</h4>
+                        <h4>UPSC COURSES (Prelims & Mains)</h4>
                         <p> </p>
                         <a href='/courses'>Read more</a>
                     </div>

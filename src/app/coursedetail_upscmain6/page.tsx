@@ -22,7 +22,7 @@ export default function Details() {
               <div className="col-lg-8">
                 <div className="price_Details">
                   <h3></h3>
-                  <h4><strong>PRICE</strong> - ₹ 3,000/-</h4>
+                  <h4><strong>PRICE</strong> - ₹ 4,999/-</h4>
                   <h4><strong>VALIDITY </strong> - 1 YEARS</h4>
                   <a href="https://mgxpi.courses.store/290650?utm_source%3Dother%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-webapp" target="_blank">
                     <Button type="button" className="solid_btn">Enroll now</Button>

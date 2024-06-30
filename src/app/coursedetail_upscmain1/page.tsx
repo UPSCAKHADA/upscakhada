@@ -10,7 +10,7 @@ export default function Details() {
   return (
     <div className="inner_page">
       <div className="solid_bg">
-        <h3>UPSC MAINS DAILY ANSWER WRITING PROGRAM (GS & ESSAY)</h3>
+        <h3>UPSC MAINS DAILY ANSWER WRITING PROGRAM (GS)</h3>
       </div>
 
       <section className="inner_pages_Section">
@@ -22,9 +22,9 @@ export default function Details() {
               <div className="col-lg-8">
                 <div className="price_Details">
                   <h3></h3>
-                  <h4><strong>PRICE</strong> - ₹ 10,776/-</h4>
+                  <h4><strong>PRICE</strong> - ₹ 14,999/-</h4>
                   <h4><strong>VALIDITY </strong> - 1 YEARS</h4>
-                  <a href="https://mgxpi.courses.store/353417?utm_source%3Dother%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-webapp" target="_blank">
+                  <a href="https://mgxpi.courses.store/514806?utm_source%3Dother%26utm_medium%3Dtutor-course-referral%26utm_campaign%3Dcourse-overview-webapp" target="_blank">
                     <Button type="button" className="solid_btn">Enroll now</Button>
                   </a>
                 </div>
