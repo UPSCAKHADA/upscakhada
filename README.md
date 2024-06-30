@@ -1,1 +1,0 @@
-# UPSC_Akhada
