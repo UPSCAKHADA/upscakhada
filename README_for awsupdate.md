@@ -7,6 +7,8 @@ run git pull
 sudo install npm
 sudo npm run build
 sudo npm start
+
+# no config is available on was upscakhada for reverse proxy, pm2 is handling app
 pm2 restart "app-name" //if this doesn't load changes try commands below
 -----------------------------------------------------
 pm2 status //to get the app name
