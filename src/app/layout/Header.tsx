@@ -92,10 +92,10 @@ function Header() {
                       <NavDropdown.Item href="/"> Haryana Civil Services (HCS) 2023</NavDropdown.Item>
                     </NavDropdown> */}
                     {/*<Link className='nav-link' href="/blogs">Blogs</Link>*/}
-                    <NavDropdown title="Exams" id="basic-nav-dropdown" className='custom_dropdown'>
+                    {/* <NavDropdown title="Exams" id="basic-nav-dropdown" className='custom_dropdown'>
                     <NavDropdown.Item href="/exam/upsc"> UPSC</NavDropdown.Item>
-                    </NavDropdown>
-                    <Link className='nav-link' href="/#footersec">Contact US</Link>
+                    </NavDropdown> */}
+                    <Link className='nav-link home_link' href="/#Contact_us">Contact US</Link>
                     
                   </Nav>
                 </Navbar.Collapse>

@@ -8,6 +8,12 @@ import NewlyAdded from './homepage/newlyAdded'
 import Services from './homepage/services'
 import WhyChooseUs from './homepage/whychoose'
 
+
+export const metadata = {
+  title: 'Best IAS, PCS and UPSC Coaching in Chandigarh',
+  description: 'UPSC Akhada imparts the best IAS, PCS and UPSC Coaching in Chandigarh. We provide excellence and success',
+}
+
 export default function Home() {
   return (
    <div className='inner_body'>
@@ -18,7 +24,7 @@ export default function Home() {
     <AppFeatures/>
     <WhyChooseUs/>
     {/*<Courses/>*/}
-    <ContactUs/>
+     <ContactUs/>
    </div>
   )
 }

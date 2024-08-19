@@ -76,8 +76,8 @@ function Footer() {
         <div className='copyright'>
             <p>© 2024 Copyright | All Rights Reserved by UPSC AKHADA</p>
             <ul>
-              <li><a href='/terms'>Terms & Conditions</a></li>
-              <li><a href='/policy'>Privacy Policy</a></li>
+              <li><a href='/'>Terms & Conditions</a></li>
+              <li><a href='/'>Privacy Policy</a></li>
             </ul>
         </div>
       </Container>
